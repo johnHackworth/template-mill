@@ -1,0 +1,13 @@
+{
+	"description": "WordPress.com page templates",
+	"templates": [
+		{
+			"title": "rockfield",
+			"defaults": "rockfield",
+			"vertical-whitelist": [
+				"gym"
+			]
+		}
+	]
+
+}
