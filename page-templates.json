@@ -4,6 +4,7 @@
 		{
 			"title": "rockfield",
 			"defaults": "rockfield",
+			"demo": "https://rockfielddemo.wordpress.com/",
 			"vertical-whitelist": [
 				"gym"
 			]
